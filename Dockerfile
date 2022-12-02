@@ -12,4 +12,4 @@ RUN apk -Uuv add bash curl python3 \
     && apk del bash curl \
     && rm /var/cache/apk/*
 
-CMD ["gcloud", "-v"]
+CMD []
