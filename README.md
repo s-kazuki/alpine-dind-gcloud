@@ -1,4 +1,4 @@
-# alpine-gcloud-kubectl
+# alpine-dind-gcloud
 
 Lightweight dind docker image on alpine with gcloud
 
@@ -12,7 +12,7 @@ Google Cloud SDK 410.0.0
 bq 2.0.81  
 bundled-python3-unix 3.9.12  
 core 2022.11.11  
-gcloud-crc32c 1.0.0  
+gcloud-crc32c 1.0.0
 gke-gcloud-auth-plugin 0.4.0  
 gsutil 5.16
 
